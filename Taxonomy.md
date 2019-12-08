@@ -16,7 +16,7 @@ Proposed categories are a combination of:
 
 and:
 * Legitimate (generally seen as good and valid in at least some contexts)
-* Borderline (less consensus - wanted by some roles but not by others)
+* Disputed (less consensus - wanted by some roles but not by others)
 * Illegitimate (generally seen as something that should not be allowed)
 
 We should define single-letter codes for the above.
