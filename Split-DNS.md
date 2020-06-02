@@ -16,7 +16,7 @@ Can imply a change of apex and change of behaviour
 Or loss of DNS service if no fallback allowed
 
 ### Home
-See [Consumer Home](./Consumer%20home)
+See [Consumer Home](Consumer%20home.md)
 Resolution of the CPE itself, by devices in the home trying to find it. Not possible if DNS is tunnelled to external world.
 
 ### Enterprise
